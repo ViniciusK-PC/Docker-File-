@@ -31,3 +31,9 @@ CREATE TABLE users(
 
 <h2> Páginas </h2>
 <img src="public/images/img_index.png">
+
+# Colaboradores
+Vinicius kohls Buttow
+https://github.com/ViniciusK-PC/
+Andrei Lopes Granada
+https://github.com/AndreiGranada/
